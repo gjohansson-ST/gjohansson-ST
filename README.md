@@ -2,7 +2,7 @@
 
 I am G Johansson, mainly contributing to the Home Assistant project and some of the libs it's using.
 
-If you like my work, consider [sponsor me](https://github.com/sponsors/gjohansson-ST).
+![Sponsor gjohansson-ST via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
 
 ## 📈 GitHub Stats
 
