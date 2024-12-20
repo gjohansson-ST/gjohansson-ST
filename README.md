@@ -13,6 +13,9 @@ I am G Johansson, mainly contributing to the Home Assistant project and some of 
 - Email: [Mail me](mailto:goran.johansson@shiftit.sem)
 - Twitter: [@gjohansson](https://twitter.com/gjohansson)
 
+[github-sponsors-shield]: 
+[github-sponsors]: https://github.com/sponsors/gjohansson-ST
+
 <!--
 **gjohansson-ST/gjohansson-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
