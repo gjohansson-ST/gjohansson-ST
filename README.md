@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+I am G Johansson, mainly contributing to the Home Assistant project and some of the libs it's using.
+
+If you like my work, consider [sponsor me](https://github.com/sponsors/gjohansson-ST).
+
+## 📈 GitHub Stats
+
+![Gjohansson-ST's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjohansson-ST&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- Email: [Mail me](mailto:goran.johansson@shiftit.sem)
+- Twitter: [@gjohansson](https://twitter.com/gjohansson)
+
 <!--
 **gjohansson-ST/gjohansson-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
