@@ -13,7 +13,7 @@ I am G Johansson, mainly contributing to the Home Assistant project and some of 
 - Email: [Mail me](mailto:goran.johansson@shiftit.sem)
 - Twitter: [@gjohansson](https://twitter.com/gjohansson)
 
-[github-sponsors-shield]: https://github.com/gjohansson-ST/gjohansson-ST/blob/main/img/sponsor.png
+[github-sponsors-shield]: https://img.shields.io/badge/Sponsor-Me-blue?style=for-the-badge&logo=github
 [github-sponsors]: https://github.com/sponsors/gjohansson-ST
 
 <!--
