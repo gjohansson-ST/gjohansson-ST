@@ -10,7 +10,7 @@ I am G Johansson, mainly contributing to the Home Assistant project and some of 
 
 ## 📫 How to reach me
 
-- Email: [Mail me](mailto:goran.johansson@shiftit.sem)
+- Email: [Mail me](mailto:goran.johansson@shiftit.se)
 - Twitter: [@gjohansson](https://twitter.com/gjohansson)
 
 [github-sponsors-shield]: https://img.shields.io/badge/Sponsor-Me-blue?style=for-the-badge&logo=github
